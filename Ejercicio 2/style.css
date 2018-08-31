@@ -1,15 +1,26 @@
 .black{
     background-color: black;
+    padding: 0em;
+    width: 80px;
+    height: 80px;
+    font-size:100%;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
     
-    font-size: 30%;
 
 }
 
 .white{
     background-color: whitesmoke;
-    
-    
-    font-size: 30%;
+     
+    padding: 0em;
+    text-align:center;
+    width: 80px;
+    font-size:100%;
+    height: 80px;
+    display: table-cell;
+    vertical-align:middle;
     
 }
 
@@ -37,17 +48,20 @@ td p{
 }
 
 td{
-    max-height: 25px;
-    max-width: 25px;
-    min-width: 25px;
-    min-height: 25px ;
+    width: 640px;
+    height: 640px;
+    margin: 20px;
 }
 
 header{
     margin: 0 auto;
     font-size: 5em;
     text-align: center;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Audiowide', cursive;
+}
+footer{
+    text-align: center;
+    font-family: 'Audiowide', cursive;
 }
 
 
