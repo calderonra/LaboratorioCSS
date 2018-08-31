@@ -1,0 +1,53 @@
+.black{
+    background-color: black;
+    
+    font-size: 30%;
+
+}
+
+.white{
+    background-color: whitesmoke;
+    
+    
+    font-size: 30%;
+    
+}
+
+.white:hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.black:hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.table{
+  margin: 0 auto;
+    width: 50em;
+    height: 50em;
+    
+    
+}
+
+td:hover p{
+    visibility: visible;
+}
+td p{
+    visibility: hidden;
+}
+
+td{
+    max-height: 25px;
+    max-width: 25px;
+    min-width: 25px;
+    min-height: 25px ;
+}
+
+header{
+    margin: 0 auto;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+
