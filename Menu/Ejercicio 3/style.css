@@ -1,0 +1,205 @@
+body{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#small{
+    font-size: 10px;
+    padding: 0.5em;
+    background-color:	rgb(0, 153, 77);
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    border-radius: 0.5em;
+    
+}
+
+#big{
+    font-size: 24px;
+    padding: 0.5em;
+    text-align: center;
+    border: none;
+    background-color:gray;
+    text-decoration: none;
+    border-radius: 0.5em;
+}
+
+#normal{
+    font-size: 16px;
+    padding: 0.5em;
+    background-color:	rgb(0, 153, 77);
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    border-radius: 0.5em;
+
+}
+
+#esme{
+    background-color: #009975 ;
+    text-align: center;
+    border: none;
+    padding: 1em;
+    color: white;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+#cielo{
+    background-color: #87CEEB;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+#ama{
+    background-color:#898ac0;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+#asfal{
+
+    background-color:#2F2B2C;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+#topa{
+    background-color:#ff7e00 ;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    border: none;
+    font-size: 1em;
+    border-radius: 0.5em;
+}
+
+#rubi{
+    background-color:#9b111e ;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+#simple{
+    background-color: white;
+    text-align: center;
+    padding: 1em;
+    color: black;
+    border-radius: 0.5em;
+    border:2px solid black;
+    font-size: 1em;
+
+}
+
+#b_esme{
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #009975;
+    color: #009975;
+    font-size: 1em;
+}
+
+#b_cielo{
+    
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #87CEEB;
+    color: #87CEEB;
+    font-size: 1em;
+}
+#b_ama{
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #898ac0;
+    color: #898ac0;
+    font-size: 1em;
+}
+
+#b_asfal{
+
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #2F2B2C;
+    color: #2F2B2C;
+    font-size: 1em;
+}
+
+#b_topazio{
+
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #ff7e00;
+    color: #ff7e00;
+    font-size: 1em;
+}
+
+#b_rubi{
+    background-color:white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    border:2px solid #9b111e;
+    color: #9b111e;
+    font-size: 1em;
+}
+
+#LA{
+    background-color: #2F2B2C;
+    color: white;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-size: 2em;
+    border-radius: 0.5em;
+}
+
+#BC{
+    background-color: white;
+    border-radius: 0.5em;
+    text-align: center;
+    color:#87CEEB;
+    padding: 1em;
+    font-size: 24px;
+    border: 2px solid #87CEEB;
+}
+#PE{
+    background-color: #009975;
+    border-radius: 0.5em;
+    text-align: center;
+    color: white;
+
+}
+
+#GBR{
+    background-color: white;
+    border-radius: 0.5em;
+    text-align: center;
+    color:#9b111e;
+    padding: 1em;
+    font-size: 24px;
+    border: 2px solid #9b111e;
+}
